@@ -1,3 +1,13 @@
+1. install node.js
+2. install python
+4. go to songsterr-downloader-main\src\lib\server\services\converter
+5. open cmd and install tsx with ``npm install tsx``
+6. create a folder named "downloads" and paste your json files there
+7. open cmd and run ``python convert.py`` from songsterr-downloader-main\src\lib\server\services\converter
+
+
+
+
 # Songsterr Downloader
 
 A web app that converts Songsterr tabs to Guitar Pro (.gp7) files using alphaTab.
